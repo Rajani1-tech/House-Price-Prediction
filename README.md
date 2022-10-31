@@ -12,7 +12,7 @@ Matplotlib
 Numpy
 
 # Original Dataset from Kaggle
-https://www.kaggle.com/datasets/aariyan101/usa-housingcsv
+https://www.kaggle.com/datasets/vedavyasv/usa-housing
 
 # Description
 
